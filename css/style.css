@@ -1,0 +1,29 @@
+body{
+    font: 14px Fantasy sans-serif; 
+}
+.navbar {
+    font: 20px Fantasy sans-serif;
+    background-color: #8B658B
+    
+}
+
+.quem-somos {
+    background-color: #CDB5CD;
+    color: black;
+
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.albuns {
+    background-color: #CDB5CD;
+    color: black;
+}
+
+.bg-footer {
+    background-color:#8968CD; 
+    color: #FFFFF0;
+}
